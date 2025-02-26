@@ -5,7 +5,7 @@
   
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <meta property="og:url" content="https://tinyurl.com/dijamincuann">
+  <meta property="og:url" content="[https://tinyurl.com/kapt889">
   <meta property="og:type" content="website">
   <meta property="og:title" content="">
   <meta property="og:description" content="">
